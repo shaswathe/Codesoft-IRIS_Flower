@@ -1,7 +1,7 @@
-# Codesoft-IRIS
+# Codesoft-IRIS_Flower
 CodSoft Internship Projects — Data Science - Task03
 
-# IRIS — CodSoft Internship
+# IRIS Flower — CodSoft Internship
 
 ## 🚀 Overview
 This project focuses on building a machine learning model to classify Iris flowers into three species using physical flower measurements. The project was completed as part of the CodSoft Data Science Internship, with emphasis on data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation. It was built as part of the CodSoft Data Science Internship (Batch B71).
